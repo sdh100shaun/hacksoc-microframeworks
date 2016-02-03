@@ -1,7 +1,7 @@
 !SLIDE smaller custom_and_unique_class
 .notes Rest API's
 
-# Micro-services #
+# Mobile backends #
 
-![Rest](https://dataloopio.files.wordpress.com/2014/12/notorious-big-08.png?w=620)
+![Mobile](http://www.scotsman.com/webimage/1.3795658.1433758734!/image/921469344.jpg_gen/derivatives/articleMaxWidth_620/921469344.jpg)
 

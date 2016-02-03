@@ -1,7 +1,18 @@
 !SLIDE smaller custom_and_unique_class
 .notes Rest API's
 
-# Micro-services #
+# Example code #
 
-![Rest](https://dataloopio.files.wordpress.com/2014/12/notorious-big-08.png?w=620)
+
+- Install Sinatra
+
+gem install sinatra
+
+require 'sinatra'
+
+get '/' do
+  'Hello world!'
+end 
+
+
 

@@ -13,7 +13,7 @@
   "feedback": true,
   
   "highlight": "atelier-cave.light",
-  "author": "Foo Bar John",
+  "author": "Shaun",
   "templates" : {
       "special" : "simple.tpl"
   },
@@ -25,12 +25,12 @@
     "Content/twoa.md",
     "Content/three.md",
     "Content/four.md",
-     "Content/five.md",
-      "Content/six.md",
-       "Content/seven.md",
-       "Content/eight.md",
-       "Content/nine.md",
-       "Content/ten.md",
-       "Content/eleven.md",
+    "Content/five.md",
+    "Content/six.md",
+    "Content/seven.md",
+    "Content/eight.md",
+    "Content/nine.md",
+    "Content/ten.md",
+    "Content/eleven.md"
   ]
 }
