@@ -9,3 +9,9 @@ get '/hello/:name' do
   # params['name'] is 'foo' or 'bar'
   "Hello #{params['name']}!"
 end
+
+get '/template' do 
+
+code = "<%= Time.now %>"
+  erb code
+end
