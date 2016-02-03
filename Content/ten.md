@@ -1,7 +1,13 @@
 !SLIDE smaller custom_and_unique_class
 .notes Rest API's
 
-# Micro-services #
+# Example code php#
 
-![Rest](https://dataloopio.files.wordpress.com/2014/12/notorious-big-08.png?w=620)
+
+- Install 
+
+php composer.phar create-project slim/slim-skeleton <appname>
+
+php -S 0.0.0.0:8080 -t public public/index.php
+
 
