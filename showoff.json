@@ -1,0 +1,36 @@
+{
+  "name": "Shaun Hare",
+  "description": "Hacksoc Presentation",
+  
+  "protected": [
+    "presenter",
+    "onepage",
+    "print"
+  ],
+  "user": "username",
+  "password": "password",
+  "version": "0.9.10.7",
+  "feedback": true,
+  
+  "highlight": "atelier-cave.light",
+  "author": "Foo Bar John",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    "Intro/intro.md",
+    "Content/one.md",
+    "Content/two.md",
+    "Content/twoa.md",
+    "Content/three.md",
+    "Content/four.md",
+     "Content/five.md",
+      "Content/six.md",
+       "Content/seven.md",
+       "Content/eight.md",
+       "Content/nine.md",
+       "Content/ten.md",
+       "Content/eleven.md",
+  ]
+}
