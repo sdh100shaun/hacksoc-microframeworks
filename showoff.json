@@ -20,11 +20,13 @@
   "pause_msg": "Paused !!!",
   "sections": [
     "Intro/intro.md",
+       "Content/me.md",
     "Content/one.md",
-    "Content/twelve.md",
-    "Content/two.md",
+    
     "Content/twoaa.md",
-    "Content/twoa.md",
+    "Content/two.md",
+    "Content/twob.md",
+    
      "Content/six.md",
     "Content/seven.md",
     
@@ -32,9 +34,11 @@
     "Content/three.md",
     "Content/four.md",
     "Content/five.md",
-   
+   "Content/eleven.md",
     "Content/nine.md",
     "Content/ten.md",
-    "Content/eleven.md"
+    "Content/twoa.md",
+     "Content/reason.md",
+     "Content/code.md"
   ]
 }
