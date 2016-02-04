@@ -4,7 +4,7 @@
 # Example code php#
 
 
-- Install 
+Install 
 
 php composer.phar create-project slim/slim-skeleton <appname>
 

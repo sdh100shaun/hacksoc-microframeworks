@@ -4,7 +4,7 @@
 # Example code #
 
 
-- Install Sinatra
+Install Sinatra
 
 gem install sinatra
 

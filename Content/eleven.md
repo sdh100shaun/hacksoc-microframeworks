@@ -1,7 +1,10 @@
-!SLIDE smaller custom_and_unique_class
+!SLIDE bullets smaller incremental transition=fade
 .notes Rest API's
 
-# Micro-services #
+# HTTP Verbs #
 
-![Rest](https://dataloopio.files.wordpress.com/2014/12/notorious-big-08.png?w=620)
+* GET
+* POST
+* PUT / PATCH
+* DELETE
 
